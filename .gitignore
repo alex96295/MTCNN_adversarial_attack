@@ -12,5 +12,5 @@ test.py
 .cache
 .ipython
 .local
-.jpg
-.png
+*.jpg
+*.png
